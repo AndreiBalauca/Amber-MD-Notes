@@ -27,6 +27,11 @@ This step does not generate a realistic trajectory. It is a preparatory step use
 ---
 
 ## Basic Minimisation Input File
+## Creating the Input File
+I usually create the minimisation input file directly in the terminal using `nano`:
+
+```bash
+nano min.in
 
 A basic AMBER minimisation input file is:
 
