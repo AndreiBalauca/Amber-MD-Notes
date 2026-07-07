@@ -21,7 +21,7 @@ Rather than serving as a collection of commands, these notes explain the purpose
 ## Planned Contents
 
 * [Protein Preparation](01-protein-preparation.md)  
-* Solvation and Ion Addition
+* [Solvation and Ion Addition](02-solvation-and-ions.md)
 * Energy Minimisation
 * Heating
 * Equilibration
