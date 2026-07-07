@@ -27,6 +27,12 @@ Heating is therefore a transition between static minimisation and dynamic equili
 ---
 
 ## Basic Heating Input File
+## Creating the Input File
+
+I usually create the heating input file directly in the terminal using `nano`:
+
+```bash
+nano heat.in
 
 A basic AMBER heating input file is:
 
