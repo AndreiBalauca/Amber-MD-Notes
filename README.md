@@ -23,7 +23,7 @@ Rather than serving as a collection of commands, these notes explain the purpose
 * [Protein Preparation](01-protein-preparation.md)  
 * [Solvation and Ion Addition](02-solvation-and-ions.md)
 * [Energy Minimisation](03-energy-minimisation.md)
-* Heating
+* [Heating](04-heating.md)
 * Equilibration
 * Production Molecular Dynamics
 * Trajectory Analysis
