@@ -10,7 +10,7 @@ These notes focus on the purpose of each stage of the MD workflow, not just the 
 
 ## Contents
 
- [Protein Preparation](01-protein-preparation.md)  
+* [Protein Preparation](01-protein-preparation.md)  
 * [Solvation and Ion Addition](02-solvation-and-ions.md)
 * [Energy Minimisation](03-energy-minimisation.md)
 * [Heating](04-heating.md)
