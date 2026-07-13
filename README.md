@@ -19,7 +19,7 @@ These notes focus on the purpose of each stage of the MD workflow, not just the 
 * [Trajectory Analysis](07-trajectory-analysis.md)
 * [Common Errors and Troubleshooting](common-errors.md)
 * [AMBER Command Reference](amber-command-reference.md)
-* References and Further Reading
+* [References and Further Reading](references.md)
 
 ---
 
