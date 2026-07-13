@@ -8,6 +8,24 @@ These notes focus on the purpose of each stage of the MD workflow, not just the 
 
 ---
 
+## Workflow Overview
+
+```text
+Protein structure
+      ↓
+Protein preparation
+      ↓
+Solvation and ion addition
+      ↓
+Energy minimisation
+      ↓
+Heating
+      ↓
+Equilibration
+      ↓
+Production molecular dynamics
+      ↓
+Trajectory analysis
 ## Contents
 
 * [Protein Preparation](01-protein-preparation.md)  
