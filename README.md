@@ -26,7 +26,7 @@ Equilibration
 Production molecular dynamics
       ↓
 Trajectory analysis
-
+```
 ---
 
 ## Contents
