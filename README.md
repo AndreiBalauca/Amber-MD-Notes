@@ -24,7 +24,7 @@ Rather than serving as a collection of commands, these notes explain the purpose
 * [Solvation and Ion Addition](02-solvation-and-ions.md)
 * [Energy Minimisation](03-energy-minimisation.md)
 * [Heating](04-heating.md)
-* Equilibration
+* [Equilibration](05-equilibration.md)
 * Production Molecular Dynamics
 * Trajectory Analysis
 * Common Errors and Troubleshooting
