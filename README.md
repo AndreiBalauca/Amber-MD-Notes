@@ -25,7 +25,7 @@ Rather than serving as a collection of commands, these notes explain the purpose
 * [Energy Minimisation](03-energy-minimisation.md)
 * [Heating](04-heating.md)
 * [Equilibration](05-equilibration.md)
-* Production Molecular Dynamics
+* [Production Molecular Dynamics](06-production.md)
 * Trajectory Analysis
 * Common Errors and Troubleshooting
 * AMBER Command Reference
