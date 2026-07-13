@@ -17,7 +17,7 @@ These notes focus on the purpose of each stage of the MD workflow, not just the 
 * [Equilibration](05-equilibration.md)
 * [Production Molecular Dynamics](06-production.md)
 * [Trajectory Analysis](07-trajectory-analysis.md)
-* Common Errors and Troubleshooting
+* [Common Errors and Troubleshooting](common-errors.md)
 * AMBER Command Reference
 * References and Further Reading
 
