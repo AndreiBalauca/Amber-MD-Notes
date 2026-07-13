@@ -1,26 +1,16 @@
 # AMBER Molecular Dynamics Notes
 
-A collection of notes, workflows, and reference material documenting my study of molecular dynamics simulations using the AMBER software suite.
+A structured collection of notes and example workflows documenting my study of molecular dynamics simulations using the AMBER software suite.
 
-The aim of this repository is to develop a reproducible understanding of molecular dynamics methods used in computational structural biology and computational chemistry while improving scientific computing, Linux, and high-performance computing (HPC) skills.
+The aim of this repository is to build a reproducible understanding of molecular dynamics methods used in computational structural biology and computational chemistry, while developing practical skills in Linux, scientific computing, and high-performance computing (HPC).
 
-Rather than serving as a collection of commands, these notes explain the purpose of each stage of a molecular dynamics simulation, the underlying scientific principles, and common practical considerations.
-
----
-
-## Objectives
-
-* Develop a strong understanding of the complete molecular dynamics workflow using AMBER.
-* Document reproducible simulation protocols and best practices.
-* Build a structured reference for molecular dynamics concepts and input files.
-* Improve scientific computing skills relevant to computational structural biology.
-* Create a long-term learning resource that can be expanded as new methods are learned.
+These notes focus on the purpose of each stage of the MD workflow, not just the commands required to run it.
 
 ---
 
-## Planned Contents
+## Contents
 
-* [Protein Preparation](01-protein-preparation.md)  
+ [Protein Preparation](01-protein-preparation.md)  
 * [Solvation and Ion Addition](02-solvation-and-ions.md)
 * [Energy Minimisation](03-energy-minimisation.md)
 * [Heating](04-heating.md)
@@ -33,25 +23,37 @@ Rather than serving as a collection of commands, these notes explain the purpose
 
 ---
 
-## Software
+## Objectives
 
-Current and future notes in this repository include workflows involving:
-
-* AMBER / AmberTools
-* Linux
-* High-Performance Computing (HPC)
-* VMD
-* CHARMM-GUI (membrane system preparation)
-* Python (scientific analysis)
+- Understand the complete AMBER molecular dynamics workflow.
+- Document the purpose of each simulation stage.
+- Build a structured reference for AMBER input files and commands.
+- Improve scientific computing and Linux workflow skills.
+- Develop good habits in reproducibility and research documentation.
 
 ---
 
-## Disclaimer
+## Software and Tools
 
-This repository contains educational notes, example workflows, and documentation created for learning purposes. It does **not** contain unpublished research data, confidential simulation systems, proprietary scripts, or materials belonging to any research group.
+Current and future notes in this repository involve:
+
+- AMBER / AmberTools
+- Linux command-line workflows
+- High-Performance Computing (HPC)
+- VMD
+- CHARMM-GUI for membrane system preparation
+- Python for future scientific analysis
+
+---
+
+## Research Data Disclaimer
+
+This repository contains educational notes, generic example workflows, and documentation created for learning purposes.
+
+It does **not** contain unpublished research data, confidential simulation systems, trajectories, proprietary scripts, or materials belonging to any research group.
 
 ---
 
 ## Repository Status
 
-This repository is an ongoing project and will continue to grow as I develop my knowledge of molecular dynamics, computational chemistry, and computational structural biology.
+This repository is an ongoing learning resource and will continue to expand as I develop my knowledge of molecular dynamics, computational chemistry, and computational structural biology.
