@@ -76,7 +76,7 @@ The restraint mask is written incorrectly.
 Incorrect:
 
 ```text
-restraintmask='!: WAT, Na+,Cl-'
+restraintmask=':! WAT, Na+,Cl-'
 ```
 
 Better:
