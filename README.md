@@ -56,14 +56,20 @@ Trajectory analysis
 
 ## Software and Tools
 
-Current and future notes in this repository involve:
+Current notes in this repository focus on:
 
 - AMBER / AmberTools
 - Linux command-line workflows
-- High-Performance Computing (HPC)
-- VMD
-- CHARMM-GUI for membrane system preparation
-- Python for future scientific analysis
+- `tleap`
+- `sander`
+- `cpptraj`
+- VMD for trajectory visualisation
+
+Future additions may include:
+
+- Python-based trajectory analysis
+- MDAnalysis
+- HPC job workflow notes
 
 ---
 
